@@ -66,16 +66,10 @@ export const comments = [
     img: "./review2.png"
   },
   {
-    img: "./review1.png"
+    img: "./review3.png"
   },
   {
-    img: "./review2.png"
-  },
-  {
-    img: "./review1.png"
-  },
-  {
-    img: "./review2.png"
+    img: "./review4.png"
   },
   {
     img: "./review1.png"
@@ -84,10 +78,10 @@ export const comments = [
     img: "./review2.png"
   },
   {
-    img: "./review1.png"
+    img: "./review3.png"
   },
   {
-    img: "./review2.png"
+    img: "./review4.png"
   },
 ];
 
