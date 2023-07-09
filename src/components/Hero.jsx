@@ -71,7 +71,7 @@ function Hero() {
                 {/* email */}
 
             <a href="mailto:golfmarkii22@gmail.com" className={css.email}>
-                Golfmarkii22@gmail.com
+                Golfnoiiz123@gmail.com
             </a>
             </div>
         </motion.div>

@@ -4,7 +4,7 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Design",
-    projects: 10,
+    projects: 20,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
@@ -51,7 +51,7 @@ export const workExp = [
   },
   {
     place: "Freelance web developer",
-    tenure: "Dec 2022 - Apr 2023",
+    tenure: "Dec 2022 - July 2023",
     role: "Frontend Web Developer",
     detail:
       "Design and develop front-end websites to come out beautiful and meet the needs of users. And updated to be modern and ready to support use on all screens",
