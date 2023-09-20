@@ -51,7 +51,7 @@ export const workExp = [
   },
   {
     place: "Freelance web developer",
-    tenure: "Dec 2022 - July 2023",
+    tenure: "Dec 2022 - Sep 2023",
     role: "Frontend Web Developer",
     detail:
       "Design and develop front-end websites to come out beautiful and meet the needs of users. And updated to be modern and ready to support use on all screens",
@@ -72,16 +72,13 @@ export const comments = [
     img: "./review4.png"
   },
   {
-    img: "./review1.png"
+    img: "./review6.jpg"
   },
   {
-    img: "./review2.png"
+    img: "./review7.jpg"
   },
   {
-    img: "./review3.png"
-  },
-  {
-    img: "./review4.png"
+    img: "./review8.jpg"
   },
 ];
 

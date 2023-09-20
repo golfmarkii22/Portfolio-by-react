@@ -58,6 +58,21 @@ const Portfolio = () => {
             src="./Projectexp6.png"
             alt="project"
           />
+          <motion.img
+            variants={fadeIn("up", "tween", 1.5, 0.6)}
+            src="./Projectexp7.png"
+            alt="project"
+          />
+          <motion.img
+            variants={fadeIn("up", "tween", 1.8, 0.6)}
+            src="./Projectexp8.png"
+            alt="project"
+          />
+          <motion.img
+            variants={fadeIn("up", "tween", 2.1, 0.6)}
+            src="./Projectexp9.png"
+            alt="project"
+          />
         </div>
       </div>
     </motion.section>
